@@ -50,7 +50,7 @@ und Klassendiagramme*** betrachtet werden.
 >
 > - Schaut Euch die Beschreibung weiterer, hier nicht besprochener Diagrammtypen
 >   an.  Diskutiert untereinder, unter welchen Typen könnt ihr euch eine Anwendung
->   vorstellen könnt. Welche Diagrammtypen sagen euch überhaupt nichts?
+>   vorstellen. Welche Diagrammtypen sagen euch überhaupt nichts?
 
 
 ## Aktivitätsdiagramme
